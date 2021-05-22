@@ -4,7 +4,7 @@
 
 #### Gene String
 
-CCNC + C(C)O = CCNCC(C)O
+'CCNC' + 'C(C)O' = 'CCNCC(C)O'
 
 
 #### Gene List
