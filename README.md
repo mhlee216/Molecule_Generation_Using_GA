@@ -1,1 +1,1 @@
-# Molecule_Generation_Using_GA
+# Multi-Objective Molecule Generation Using Genetic Algorithm
